@@ -1,4 +1,4 @@
-For all italian readers, there is another README written in italian in this repo.
+For all italian readers, there is another [README](https://github.com/MalwareWerewolf/CodiceFiscaleUtils/blob/main/README.it.md) written in italian in this repo.
 
 A useful C# helper class to check for the formal validity of any Italian Tax Code / Fiscal Code / VAT ID. The code was made by [Ryan](https://www.ryadel.com/en/author/ryan/) and released on [ryadel.com](https://www.ryadel.com/en/italian-tax-code-fiscal-code-vat-id-c-sharp-class/).
 
