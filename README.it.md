@@ -1,4 +1,4 @@
-Classe helper C# per il controllo e il calcolo formale del Codice Fiscale. Il codice è stato creato da [Ryan](https://www.ryadel.com/en/author/ryan/) e rilasciato su [ryadel.com](https://www.ryadel.com/en/italian-tax-code-fiscal-code-vat-id-c-sharp-class/).
+Classe helper C# per il controllo e il calcolo formale del Codice Fiscale. Il codice è stato creato da [Ryan](https://www.ryadel.com/author/ryan/) e rilasciato su [ryadel.com](https://www.ryadel.com/en/italian-tax-code-fiscal-code-vat-id-c-sharp-class/).
 
 Ci sono molte risorse online che mostrano come validare un codice fiscale, ma tutte queste risorse usano lo stesso approccio. Il codice controlla che il codice fiscale sia valido con una chiamata API ad un server che alcune volte funziona oppure utilizza un grosso file csv con tutte le citta' d'Italia per validare la stringa. Tutte queste funzionalita' possono solo funzionare in alcune situazioni e il codice non è ben ottimizzato.
 
