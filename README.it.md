@@ -8,4 +8,4 @@ Tutti i meriti vanno all'autore originale, questo repository serve solo per cond
 
 La solution ha due classi scritte in inglese e in italiano in modo da capire i metodi ed i parametri utilizzati.
 
-Il codice ISTAT può essere trovato su [dait.interno.gov.it](dait.interno.gov.it), nell'ultima colonna a destra denominata come 'CODICE BELFIORE'.
+Il codice ISTAT può essere trovato su [dait.interno.gov.it](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/elenco_codici_comuni.php), nell'ultima colonna a destra denominata come 'CODICE BELFIORE'.
