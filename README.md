@@ -1,6 +1,6 @@
 For all italian readers, there is another [README](https://github.com/MalwareWerewolf/CodiceFiscaleUtils/blob/main/README.it.md) written in italian in this repo.
 
-A useful C# helper class to check for the formal validity of any Italian Tax Code / Fiscal Code / VAT ID. The code was made by [Ryan](https://www.ryadel.com/en/author/ryan/) and released on [ryadel.com](https://www.ryadel.com/en/italian-tax-code-fiscal-code-vat-id-c-sharp-class/).
+A useful C# helper class to check for the formal validity of any Italian Tax Code / Fiscal Code also known as Codice Fiscale / VAT ID. The code was made by [Ryan](https://www.ryadel.com/en/author/ryan/) and released on [ryadel.com](https://www.ryadel.com/en/italian-tax-code-fiscal-code-vat-id-c-sharp-class/).
 
 There are many resources online which show how to validate the Fiscal Code, but all these resources use the same approach. The code checks if the fiscal code is valid with an API request to a server which sometimes doesn't work or it uses a big csv file with all the towns in Italy to validate the string. All these features can only work in some situations and the code is not well optimized.
 
