@@ -10,4 +10,4 @@ All the credits go the original author, this is just a repository to share his c
 
 The solution has two classes written in english and in italian in order to understand the methods and the parameters used.
 
-The ISTAT Code can be found on [dait.interno.gov.it](dait.interno.gov.it), in the last column on the right named as 'CODICE BELFIORE'.
+The ISTAT Code can be found on [dait.interno.gov.it](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/elenco_codici_comuni.php), in the last column on the right named as 'CODICE BELFIORE'.
